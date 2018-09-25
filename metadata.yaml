@@ -1,11 +1,16 @@
 _repo: Ein-livlandisch-Herz-Katharina-I-von-Russland_57293
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57293-h/images/cover.jpg
 creator:
   author:
     agent_name: Freimark, Hans
     gutenberg_agent_id: '49302'
     url: http://www.gutenberg.org/2009/agents/49302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57293#Ein-livlandisch-Herz-Katharina-I-von-Russland
 gutenberg_issued: '2018-06-09'
 gutenberg_type: Text
 identifiers:
